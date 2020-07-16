@@ -1,0 +1,23 @@
+{
+  "packageDirectories": [
+      {
+          "path": "force-app",
+          "default": true,
+          "package": "testPackage",
+          "versionName": "ver 0.1",
+          "versionNumber": "0.1.0.NEXT"
+      }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "48.0",
+  "packageAliases": {
+      "Project Tracking": "0Ho1K000000fxTsSAI",
+      "testPackage": "0Ho1K000000fxTxSAI",
+      "testPackage@0.1.0-1": "04t1K000002qmVbQAI",
+      "testPackage@0.1.0-2": "04t1K000002qmW5QAI",
+      "testPackage@0.1.0-3": "04t1K000002qmWeQAI",
+      "testPackage@0.1.0-4": "04t1K000002qmXrQAI",
+      "testPackage@0.1.0-5": "04t1K000002qmXwQAI"
+  }
+}
